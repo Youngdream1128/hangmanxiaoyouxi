@@ -1,0 +1,15 @@
+﻿“第三章编程练习.exe”(Win32): 已加载“D:\work\C++\daima\第三章编程练习\Release\第三章编程练习.exe”。已加载符号。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已卸载“C:\Windows\SysWOW64\kernel32.dll”
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\apphelp.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140.dll”。无法查找或打开 PDB 文件。
+“第三章编程练习.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140.dll”。无法查找或打开 PDB 文件。
+线程 0x16e0c 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1ee04 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x236b4 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1f158 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[134356] 第三章编程练习.exe”已退出，返回值为 -1073741510 (0xc000013a)。
